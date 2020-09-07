@@ -1,0 +1,101 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\Abract01.png" />
+    <None Include="wwwroot\assets\Background-image-2.png" />
+    <None Include="wwwroot\assets\Background-image.png" />
+    <None Include="wwwroot\assets\Blog-post\blog1.png" />
+    <None Include="wwwroot\assets\Blog-post\blog2.png" />
+    <None Include="wwwroot\assets\Blog-post\blog3.png" />
+    <None Include="wwwroot\assets\Blog-post\blog4.png" />
+    <None Include="wwwroot\assets\Blog-post\feature-img1.jpg" />
+    <None Include="wwwroot\assets\Blog-post\post-1.jpg" />
+    <None Include="wwwroot\assets\Blog-post\post-10.jpg" />
+    <None Include="wwwroot\assets\Blog-post\post-2.jpg" />
+    <None Include="wwwroot\assets\Blog-post\post-3.jpg" />
+    <None Include="wwwroot\assets\Blog-post\post-4.png" />
+    <None Include="wwwroot\assets\Blog-post\post-5.png" />
+    <None Include="wwwroot\assets\Blog-post\post-6.png" />
+    <None Include="wwwroot\assets\Blog-post\post-7.jpg" />
+    <None Include="wwwroot\assets\Blog-post\post-8.jpg" />
+    <None Include="wwwroot\assets\Blog-post\post-9.jpg" />
+    <None Include="wwwroot\assets\instagram\thumb-card3.png" />
+    <None Include="wwwroot\assets\instagram\thumb-card4.png" />
+    <None Include="wwwroot\assets\instagram\thumb-card5.png" />
+    <None Include="wwwroot\assets\instagram\thumb-card6.png" />
+    <None Include="wwwroot\assets\instagram\thumb-card7.png" />
+    <None Include="wwwroot\assets\instagram\thumb-card8.png" />
+    <None Include="wwwroot\assets\popular-post\m-blog-1.jpg" />
+    <None Include="wwwroot\assets\popular-post\m-blog-2.jpg" />
+    <None Include="wwwroot\assets\popular-post\m-blog-3.jpg" />
+    <None Include="wwwroot\assets\popular-post\m-blog-4.jpg" />
+    <None Include="wwwroot\assets\popular-post\m-blog-5.jpg" />
+    <None Include="wwwroot\lib\aos\css\aos.css" />
+    <None Include="wwwroot\css\fonts.css" />
+    <None Include="wwwroot\lib\owl-carousel\css\owl.carousel.min.css" />
+    <None Include="wwwroot\lib\owl-carousel\css\owl.theme.default.min.css" />
+    <None Include="wwwroot\css\style.css" />
+    <None Include="wwwroot\fonts\Abel\Abel-Regular.ttf" />
+    <None Include="wwwroot\fonts\Abel\OFL.txt" />
+    <None Include="wwwroot\fonts\Anton\Anton-Regular.ttf" />
+    <None Include="wwwroot\fonts\Anton\OFL.txt" />
+    <None Include="wwwroot\fonts\Josefin_Sans\JosefinSans-Bold.ttf" />
+    <None Include="wwwroot\fonts\Josefin_Sans\JosefinSans-BoldItalic.ttf" />
+    <None Include="wwwroot\fonts\Josefin_Sans\JosefinSans-Light.ttf" />
+    <None Include="wwwroot\fonts\Josefin_Sans\JosefinSans-LightItalic.ttf" />
+    <None Include="wwwroot\fonts\Josefin_Sans\JosefinSans-Regular.ttf" />
+    <None Include="wwwroot\fonts\Josefin_Sans\JosefinSans-RegularItalic.ttf" />
+    <None Include="wwwroot\fonts\Josefin_Sans\JosefinSans-SemiBold.ttf" />
+    <None Include="wwwroot\fonts\Josefin_Sans\JosefinSans-SemiBoldItalic.ttf" />
+    <None Include="wwwroot\fonts\Josefin_Sans\JosefinSans-Thin.ttf" />
+    <None Include="wwwroot\fonts\Josefin_Sans\JosefinSans-ThinItalic.ttf" />
+    <None Include="wwwroot\fonts\Josefin_Sans\OFL.txt" />
+    <None Include="wwwroot\fonts\Lexend_Deca\LexendDeca-Regular.ttf" />
+    <None Include="wwwroot\fonts\Lexend_Deca\OFL.txt" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-Black.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-BlackItalic.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-Bold.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-BoldItalic.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-ExtraLight.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-ExtraLightItalic.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-Light.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-LightItalic.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-Medium.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-MediumItalic.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-Regular.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-RegularItalic.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-SemiBold.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-SemiBoldItalic.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-Thin.ttf" />
+    <None Include="wwwroot\fonts\Livvic\Livvic-ThinItalic.ttf" />
+    <None Include="wwwroot\fonts\Livvic\OFL.txt" />
+    <None Include="wwwroot\lib\aos\js\aos.js" />
+    <None Include="wwwroot\js\main.js" />
+    <None Include="wwwroot\lib\owl-carousel\js\owl.carousel.min.js" />
+    <None Include="wwwroot\webfonts\fa-brands-400.eot" />
+    <None Include="wwwroot\webfonts\fa-brands-400.svg" />
+    <None Include="wwwroot\webfonts\fa-brands-400.ttf" />
+    <None Include="wwwroot\webfonts\fa-brands-400.woff" />
+    <None Include="wwwroot\webfonts\fa-brands-400.woff2" />
+    <None Include="wwwroot\webfonts\fa-regular-400.eot" />
+    <None Include="wwwroot\webfonts\fa-regular-400.svg" />
+    <None Include="wwwroot\webfonts\fa-regular-400.ttf" />
+    <None Include="wwwroot\webfonts\fa-regular-400.woff" />
+    <None Include="wwwroot\webfonts\fa-regular-400.woff2" />
+    <None Include="wwwroot\webfonts\fa-solid-900.eot" />
+    <None Include="wwwroot\webfonts\fa-solid-900.svg" />
+    <None Include="wwwroot\webfonts\fa-solid-900.ttf" />
+    <None Include="wwwroot\webfonts\fa-solid-900.woff" />
+    <None Include="wwwroot\webfonts\fa-solid-900.woff2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Blooger_Website-master\css\" />
+    <Folder Include="Blooger_Website-master\js\" />
+  </ItemGroup>
+
+</Project>
